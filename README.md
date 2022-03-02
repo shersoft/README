@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[![website](https://shersoftware.com)
+[Link to SherSoft](https://shersoftware.com)
 
 ### Languages and Tools:
 
