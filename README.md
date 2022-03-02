@@ -14,4 +14,4 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://shersoftware.com)
+[![website](https://shersoftware.com)
